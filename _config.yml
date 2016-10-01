@@ -9,7 +9,6 @@ description: Leon的个人博客
 author: Leon
 language:
 timezone:
-
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: git@github.com:Leoxueping/Leoxueping.github.io.git
