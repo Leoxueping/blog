@@ -1,6 +1,6 @@
-hexo d
-echo "please enter commit info:"
+echo "please input push info:"
 read msg
+hexo d
 git pull origin master
 git add .
 git commit -a -m "$msg"
