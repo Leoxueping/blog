@@ -1,7 +1,7 @@
 ---
-title: css3学习笔记(一)
+title: CSS3学习笔记(一)
 date: 2016-10-02 20:27:37
-tags: css3
+tags: css
 ---
 css3学习笔记
 <!--more-->
