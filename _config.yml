@@ -3,15 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Leon_blog
+title: lixpng
 subtitle:
-description: Leon的个人博客
-author: Leon
+description: 及时行乐
+author: Lixueping
 language: zh-CN
 timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: git@github.com:Leoxueping/Leoxueping.github.io.git
+url: git@github.com:lixpng/lixpng.github.io.git
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -68,4 +68,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Leoxueping/Leoxueping.github.io.git
+  repo: git@github.com:lixpng/lixpng.github.io.git
