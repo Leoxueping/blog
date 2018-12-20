@@ -1,7 +1,7 @@
 ---
 title: 初探GraphQL
 date: 2018-12-20 19:39:38
-tags:
+tags: javascript
 ---
 ### 一、什么是 `GraphQL`
 全称 `Graph Query Language`，是Facebook于2012年创造的一种用于 API 的查询语言，通俗地讲，就是相当于将你所有后端 API 组成的集合看成一个数据库，用户终端发送一个查询语句，你的 `GraphQL` 服务解析这条语句并通过一系列规则从你的“ API 数据库”里面将查询的数据结果返回给终端，而 `GraphQL` 就相当于这个系统的一个查询和定义语言。是一种与 `Rest` 完全的不同的 `API` 方案。
